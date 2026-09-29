@@ -30,8 +30,15 @@ Laboratuvar süreci 6 farklı yetkinlik seviyesi (L1-L6) ve 12 modülden oluşma
 
 ### 📂 Tamamlanan ve Planlanan Modüller
 
-*   [x] **Modül 1:** Elektrik Temeli ve Laboratuvar Düşüncesi[cite: 2] (*[Detaylı Rapor](./Modul_01_Elektrik_Temeli/README.md)*)
-*   [ ] **Modül 2:** Frekans Domeni ve Pasif Filtrelerin Temeli[cite: 2]
+### ✅ MODÜL 1: Elektrik Temelleri ve Laboratuvar Düşüncesi
+**Durum:** Tamamlandı ([Modül 1 Raporuna Git](./Modul_01_Sinyal_ve_Olcum/README.md))
+
+### ✅ MODÜL 2: Frekans Domeni ve Pasif Filtre Mimarisi
+**Durum:** Tamamlandı ([Modül 2 Raporuna Git](./Modul_02_Frekans_Domeni/README.md))
+*   **Hedefler:** Kompleks Empedans Analizi, RC/RLC Frekans Cevabı, Bode Diyagramı Pratiği, Kesim ve Rezonans Frekansları.
+*   **Geçme Kriteri (MASTER):** Bir devrenin frekansa vereceği tepkiyi öngörebilmek ve filtre 
+topolojisini (LP/HP/Band-Pass) sistem gereksinimine göre gerekçelendirebilmek.
+
 *   [ ] **Modül 3:** Diyotlar, BJT/MOSFET ve Analog Devre Blokları[cite: 2]
 *   [ ] **Modül 4:** Aktif Filtreleme ve Analog Sinyal İşleme[cite: 2]
 *   [ ] **Modül 5:** Güç Elektroniği ve Güç Bütünlüğü[cite: 2]
