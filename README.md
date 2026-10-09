@@ -39,7 +39,11 @@ Laboratuvar süreci 6 farklı yetkinlik seviyesi (L1-L6) ve 12 modülden oluşma
 *   **Geçme Kriteri (MASTER):** Bir devrenin frekansa vereceği tepkiyi öngörebilmek ve filtre 
 topolojisini (LP/HP/Band-Pass) sistem gereksinimine göre gerekçelendirebilmek.
 
-*   [ ] **Modül 3:** Diyotlar, BJT/MOSFET ve Analog Devre Blokları[cite: 2]
+### ✅ MODÜL 3: Aktif Yarı İletkenler, Anahtarlama ve Op-Amp Mimarisi
+**Durum:** Tamamlandı ([Modül 3 Raporuna Git](./Modul_03_Aktif_Yari_Iletkenler/README.md))
+*   **Hedefler:** P-N Eklemi (İleri Gerilim Düşümü), MOSFET Low-Side Switch, Endüktif Yük Koruması (Flyback), Op-Amp Negatif/Pozitif Geri Besleme (Amplifier & Schmitt Trigger).
+*   **Geçme Kriteri (MASTER):** Mikrodenetleyici çıkış sinyallerini izole edip yükselterek güçlü endüstriyel yükleri güvenli şekilde anahtarlayabilmek ve sensör/okuma hatalarını donanımsal olarak engelleyebilmek.
+
 *   [ ] **Modül 4:** Aktif Filtreleme ve Analog Sinyal İşleme[cite: 2]
 *   [ ] **Modül 5:** Güç Elektroniği ve Güç Bütünlüğü[cite: 2]
 *   [ ] **Modül 6:** Gömülü Sistemi Donanımsal Olarak Kontrol Etme (ADC/DAC/DMA)[cite: 2]
